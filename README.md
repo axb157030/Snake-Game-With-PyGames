@@ -1,3 +1,3 @@
-* Snake Game made with Pygames modules
-** The big yellow circles decrease snake size and give more points than the circles
-*** Made with ChatGPT
+- Snake Game made with Pygames modules
+* The big yellow circles decrease snake size and give more points than the circles
+* Made with ChatGPT
